@@ -14,7 +14,7 @@ black==22.10.0
 bleach==5.0.1
 blinker==1.5
 cachetools==5.2.0
-certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+
 cffi==1.15.1
 chardet==5.0.0
 charset-normalizer==2.1.1
